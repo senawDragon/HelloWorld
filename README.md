@@ -2,5 +2,10 @@
 Hello World in many different languages
 
 ## Programming languages / File Extensions
-1. bat - batch
-
+Batch - .bat
+Python - .py
+C - .c
+C++ - .cpp
+C# - .cs
+Haskell - .hs
+Lua - .lua
